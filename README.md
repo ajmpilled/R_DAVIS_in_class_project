@@ -1,11 +1,10 @@
 Welcome, Bowtruckles, to R-DAVIS 2020! 
 
 
+Please fill in this markdown document in RStudio, save your edits, and push your changes to github following the instructions on the website's setup tab. 
 
-Please fill in this markdown document, save your edits, and push your changes to github. 
 
-
-What's your name? 
+What's your name and preferred pronouns?
 
 What do you study (or hope to study)?
 
