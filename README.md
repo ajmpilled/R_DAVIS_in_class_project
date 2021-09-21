@@ -1,12 +1,3 @@
-Welcome, Bowtruckles, to R-DAVIS 2020! 
+Welcome to R-DAVIS! 
 
-
-Please fill in this markdown document in RStudio, save your edits, and push your changes to github following the instructions on the website's setup tab. 
-
-
-What's your name and preferred pronouns?
-
-What do you study (or hope to study)?
-
-What's one interesting fact about you? 
-
+This is the 'README' file for your class repository -- a place where you can share notes for your project. Typically when you start a new project this can be a good place to provide an overview of what's happening in this R prohect. 
